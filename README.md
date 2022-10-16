@@ -14,7 +14,7 @@ After that, the destination folder is compressed and archived.
 
 ## How to Use This Repo
 
-) fork the repo and clone it onto your local machine. 
+1) fork the repo and clone it onto your local machine. 
 
 2) Navigate to the project directory
 
@@ -22,7 +22,7 @@ After that, the destination folder is compressed and archived.
 ```
 bash File_Checker_Program.sh
 ```
-4)Finally, enter both the source and destination folder when prompted. 
+4) Finally, enter both the source and destination folder when prompted. 
 
 An example of a source folder could be: /home/omisore76/folder1
 
