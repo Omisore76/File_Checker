@@ -28,4 +28,3 @@ tar czf destination_folder.tar $destination_folder_path
 
 gzip destination_folder.tar
 
-aws s3 cp destination_folder.tar.gz s3://dailybackupbucket8976/
